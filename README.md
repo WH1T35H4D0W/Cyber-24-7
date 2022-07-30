@@ -1,2 +1,2 @@
 # Cyber-24-7
-Resource files of CYber 24/7 Website 
+Resource files of Cyber 24/7 Website 
